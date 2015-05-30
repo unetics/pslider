@@ -7,6 +7,8 @@ Version: 5.2.0
 Author: Mitchell Bray
 Author URI: http://webcreationcentre.com.au/
 Text Domain: LayerSlider
+GitHub Plugin URI:	unetics/pslider
+GitHub Branch:		master
 */
 
 if(defined('LS_PLUGIN_VERSION') || isset($GLOBALS['lsPluginPath'])) {
